@@ -1,0 +1,5 @@
+<svg width={1000} height={111} viewBox="0 0 1000 111" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1,0,0,1,-0.6060516648498151,-0.6241608724925882)">
+    <rect width={396} height={44} fill="#111111" />
+  </g>
+</svg>
